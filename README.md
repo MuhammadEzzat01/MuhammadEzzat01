@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadEzzat01 
-- 🧑‍🎓 I'm a M.Sc. student at irrigation and hydraulics department || Faculty of Engineering || Cairo University
+- 🧑‍🎓 I'm a M.Sc. student of water engineering and environment at irrigation and hydraulics department || Faculty of Engineering || Cairo University
 - 👀 I’m interested in general in infrastructure fields related to water and I have a special interest in GIS platforms & softwares 
       Data Science and also I of course I am a big fan of MATLAB and Python ...
       I wish I can combine and relate between these different topics "skills". 
