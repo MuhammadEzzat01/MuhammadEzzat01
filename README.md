@@ -9,7 +9,7 @@
 - 📫 How to reach me?
 - First you can just email me at ▼
 - muhammadezzat100@gmail.com
-- Second you can send a DM at my LINKEDIN here ▼
+- Second you can send a DM at my Linkedin here ▼
 - https://www.linkedin.com/in/muhammadezzat100/
 
 <!---
